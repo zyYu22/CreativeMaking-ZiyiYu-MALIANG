@@ -5,8 +5,8 @@ Video Link: https://youtu.be/s86AhdlNfEc
 
 ![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/cover.png)
 
-1. Concept
-1.1 Introduction
+1. Concept:<br />
+1.1 Introduction:<br />
 MALIANG is an interactive 3D video installation that combines traditional Chinese fables and traditional culture with Y2K style pop culture and romantic fantasy of the future world. The installation consists of three carefully designed scenes, each showcasing a unique visual and emotional experience.
 
 In the first scene, a traditional Chinese ink painting scroll is displayed. The delicate lines and magnificent landscape paintings flow between black and white ink paintings, taking the audience into an ancient and mysterious world. This scene shows the audience the profound heritage of Chinese culture through traditional aesthetic elements.
@@ -53,8 +53,7 @@ The Midas touch: The touch of a stone on an object turns it into gold. This idio
 ![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/VE1.png)
 
 3.2	Based on these 2D ink painting materials, I built 3D models in blender and created bones and bone bindings in blender to prepare for subsequent interactive animations in unity.
-![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/VE3.png)
-
+![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/VE5.png)
 ![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/UnityTest.JPG)
 
  
@@ -82,6 +81,9 @@ The hardware used to achieve the interaction effect is GY9960 (gesture sensor) a
 
 6.	Sound Design
 I did not choose to use the background music that had been made, but chose some materials about Tibetan bells, ancient Chinese Musical Instruments, psychedelic electronic music and so on to adjust the reverberation and sound channels in the AU software. Export to wav mode and import to unity asset library.
+![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/Sound_AUEditing/1.png)
+![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/Sound_AUEditing/2.png)
+![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/Sound_AUEditing/3.png)
 
    
 
@@ -89,8 +91,13 @@ I did not choose to use the background music that had been made, but chose some 
 7.	Final Effect
 Some of the visuals are shown below, and you can watch the final interaction through the full video.
 https://youtu.be/s86AhdlNfEc
+![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/VideoonCloth.PNG)
+
+
+
 8.	Future Development
 The posture sensor is based on sensing different colors, light and other elements to recognize gestures. In this project, I chose to use a projector for demonstration, but I found that the interaction effect of the posture sensor was unstable in low light. Therefore, I try to use the more flexible MPU-6050 to complete the interaction effect through multi-axis gyroscope Angle recognition instead of gesture sensor.
-
+![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/ArduinoTest1.JPG)
+![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/ArduinoTest2.JPG)
  
  

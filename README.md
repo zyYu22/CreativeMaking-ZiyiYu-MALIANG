@@ -3,7 +3,7 @@ MALIANG - a dream space that is up to you.
 
 Video Link: https://youtu.be/s86AhdlNfEc
 
-![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/ArduinoTest.JPG)
+![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/cover.png)
 
 1. Concept
 1.1 Introduction
@@ -40,9 +40,10 @@ The Midas touch: The touch of a stone on an object turns it into gold. This idio
 
 
 2.	Mood board & Reference
-
- 
-
+![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Reference_Elements/87bf33759fd1145df8be473706986ebf.jpg)
+![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Reference_Elements/7a980e657af72287d6b0898e2c8ae8dd.jpg) 
+![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Reference_Elements/f3df47c90131d6ac518a9bfa163cef4a.jpg)
+![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Reference_Elements/f7ec3251081eefae8a854d88796238bd.jpg)
    
 
 3.	Visual Design

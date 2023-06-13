@@ -5,8 +5,8 @@ Video Link: https://youtu.be/s86AhdlNfEc
 
 ![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/cover.png)
 
-1. Concept:<br />
-1.1 Introduction:<br />
+*1. Concept*
+_1.1 Introduction_
 MALIANG is an interactive 3D video installation that combines traditional Chinese fables and traditional culture with Y2K style pop culture and romantic fantasy of the future world. The installation consists of three carefully designed scenes, each showcasing a unique visual and emotional experience.
 
 In the first scene, a traditional Chinese ink painting scroll is displayed. The delicate lines and magnificent landscape paintings flow between black and white ink paintings, taking the audience into an ancient and mysterious world. This scene shows the audience the profound heritage of Chinese culture through traditional aesthetic elements.
@@ -19,14 +19,14 @@ This work is not just about the collision of tradition and modernity. This work 
 
 This work is not just an interactive animation, it can be placed in any suitable public space. For example, in this exhibition, I projected this work on a piece of clothing and interacted with it. I left a unique texture on the clothes in the real world while exploring the virtual space. There are many more forms that can be explored, and I plan to continue to refine both the technical and visual aspects of it.
 
-1.2 The story line of the traditional Chinese fable Magic Brush MALIANG
+_1.2 The story line of the traditional Chinese fable Magic Brush MALIANG_
 Ma Liang is a poor and talented painter, he got a pen of the Divine comedy, if he draws with this pen will become reality, Ma Liang used this pen to help many people through difficulties. This story uses the brush full of romance and imagination to express the positive impact of art on people, human dreams, and aspirations.
 
 I started from the Chinese classical landscape ink painting, from black and white to psychedelic color, two-dimensional expression to three-dimensional expression. The Millennium Trend (Y2K) is people's romantic imagination of technology. In the 2020s, the fashion aesthetic trend of two decades ago has been revived, suggesting a new round of impact brought by newer technology to the world. As a millennial, I grew up documenting the social upheaval brought about by technology, and although many new anxieties and fears have been born along with the widespread use of technology, I prefer to make technology more romantic.
 
 So, I chose "Magic Brush Ma Liang" as the story line of this project. A brush that can paint everything in the world is my vision and expectation for future science and technology.
 
-1.3 Metaphor of design in works
+_1.3 Metaphor of design in works_
 In Chinese traditional culture, connotation and metaphor are very important artistic expressions. So, I applied this metaphor to my fantasy of future aesthetics. Instead of recreating the full animation of the magic pen, I chose to use the posture sensor to simulate the pen so that users can get more interactive experience. The butterfly flies over the place will produce color change, wind blowing and other animation effects, this is my explanation of the "butterfly effect". The color change of the models of mountains, water, lotus flowers and leaves in the virtual space suggests the traditional Chinese fable of "Midas touch".
 
 Attached:

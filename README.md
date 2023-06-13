@@ -2,7 +2,8 @@
 MALIANG - a dream space that is up to you.
 
 Video Link: https://youtu.be/s86AhdlNfEc
- 
+
+![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/ArduinoTest.JPG)
 
 1. Concept
 1.1 Introduction

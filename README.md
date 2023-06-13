@@ -7,7 +7,6 @@ Video Link: https://youtu.be/s86AhdlNfEc
 
 **_1. Concept:</br>_**
 **_1.1 Introduction:</br>_**
-</br>
 MALIANG is an interactive 3D video installation that combines traditional Chinese fables and traditional culture with Y2K style pop culture and romantic fantasy of the future world. The installation consists of three carefully designed scenes, each showcasing a unique visual and emotional experience.
 </br>
 </br>
@@ -26,7 +25,7 @@ This work is not just about the collision of tradition and modernity. This work 
 This work is not just an interactive animation, it can be placed in any suitable public space. For example, in this exhibition, I projected this work on a piece of clothing and interacted with it. I left a unique texture on the clothes in the real world while exploring the virtual space. There are many more forms that can be explored, and I plan to continue to refine both the technical and visual aspects of it.
 </br>
 </br>
-_1.2 The story line of the traditional Chinese fable Magic Brush MALIANG_
+**_1.2 The story line of the traditional Chinese fable Magic Brush MALIANG_**
 </br>
 Ma Liang is a poor and talented painter, he got a pen of the Divine comedy, if he draws with this pen will become reality, Ma Liang used this pen to help many people through difficulties. This story uses the brush full of romance and imagination to express the positive impact of art on people, human dreams, and aspirations.
 </br>

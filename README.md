@@ -5,8 +5,8 @@ Video Link: https://youtu.be/s86AhdlNfEc
 
 ![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/cover.png)
 
-*1. Concept*
-_1.1 Introduction_
+*1. Concept:</br>*
+_1.1 Introduction:</br>_
 MALIANG is an interactive 3D video installation that combines traditional Chinese fables and traditional culture with Y2K style pop culture and romantic fantasy of the future world. The installation consists of three carefully designed scenes, each showcasing a unique visual and emotional experience.
 
 In the first scene, a traditional Chinese ink painting scroll is displayed. The delicate lines and magnificent landscape paintings flow between black and white ink paintings, taking the audience into an ancient and mysterious world. This scene shows the audience the profound heritage of Chinese culture through traditional aesthetic elements.

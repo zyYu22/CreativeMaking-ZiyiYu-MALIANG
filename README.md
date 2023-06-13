@@ -5,8 +5,8 @@ Video Link: https://youtu.be/s86AhdlNfEc
 
 ![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/cover.png)
 
-_1. Concept:</br>_
-_1.1 Introduction:</br>_
+**_1. Concept:</br>_**
+**_1.1 Introduction:</br>_**
 </br>
 MALIANG is an interactive 3D video installation that combines traditional Chinese fables and traditional culture with Y2K style pop culture and romantic fantasy of the future world. The installation consists of three carefully designed scenes, each showcasing a unique visual and emotional experience.
 </br>

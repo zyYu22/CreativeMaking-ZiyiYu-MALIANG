@@ -54,7 +54,7 @@ The Midas touch: The touch of a stone on an object turns it into gold. This idio
 
 3.2	Based on these 2D ink painting materials, I built 3D models in blender and created bones and bone bindings in blender to prepare for subsequent interactive animations in unity.
 ![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/VE3.png)
-![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/VE5.png)
+
 ![Image](https://github.com/zyYu22/CreativeMaking-ZiyiYu-MALIANG/blob/main/Effect_Elements/UnityTest.JPG)
 
  
